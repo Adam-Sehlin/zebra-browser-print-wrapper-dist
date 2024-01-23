@@ -23,7 +23,7 @@
         "barcode"
     ],
     "files": [
-        "lib/**/*"
+        "lib/"
     ],
     "author": "Luismar Hilario",
     "license": "GPL-3.0",
